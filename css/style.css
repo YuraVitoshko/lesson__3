@@ -1,0 +1,45 @@
+.header a{
+	color: red;
+}
+.main__title{
+	color: rgb(69, 46, 18);
+}
+.block-red{
+	color: red;
+}
+.block-red .main__sub-title + p{
+	color: rgb(189, 33, 189);
+}
+.block-blue h2{
+	color: blue;
+}
+.block-blue .main__text ~ p{
+	color: rgb(0, 176, 229);
+}
+.block-green{
+	color: green;
+}
+div.block-yellow{
+	color: rgb(179, 179, 0);
+}
+.block-yellow .main__paragraph{
+	color: rgb(3, 23, 79);
+}
+.block-grey .main__text{
+	color: grey;
+}
+div.block-brown{
+	color: brown;
+}
+.block-brown > p{
+	color: rgb(255, 129, 129);
+}
+.block-pink .main__sub-title{
+	color: blueviolet;
+}
+.block-pink p{
+	color: pink;
+}
+.footer *{
+	color: black;
+}
